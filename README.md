@@ -26,6 +26,6 @@ DockSlide is licensed under the [MIT License](https://opensource.org/licenses/MI
 
 ## 🙏 Credits
 
-DockSlide was created by [Your Name]. Special thanks to the creators of Docker for their amazing technology, and to the community for their support and contributions.
+DockSlide was created by Balwant. Special thanks to the creators of Docker for their amazing technology, and to the community for their support and contributions.
 
 Happy learning with DockSlide! 🎓🐳
