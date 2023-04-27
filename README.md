@@ -14,7 +14,7 @@ The repository contains the following files:
 - `app.css`: The CSS file for styling the Docker PPT
 - `app.js` : The js file for making slider
 - `slider.js`: The js file to run slides
-- `img: A directory containing images used in the Docker PPT
+- `img` : A directory containing images used in the Docker PPT
 
 ## 🤝 Contributing
 
