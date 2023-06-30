@@ -2,6 +2,8 @@
 
 Welcome to DockSlide, an interactive Docker PPT created using HTML and CSS and Slider js to help users learn Docker easily. This repository is public, so feel free to explore the files and learn from them! 
 
+## see 🚀 in action 👉 here https://balwant-singh-rathore.github.io/docker/
+
 ## 🚀 Quick Start
 
 To use DockSlide, simply clone or download the repository onto your local machine. Once downloaded, open the `index.html` file in your web browser to view the Docker PPT.
